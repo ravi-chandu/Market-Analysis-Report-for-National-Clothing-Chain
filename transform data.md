@@ -45,4 +45,15 @@
 
 <br />
 
+**d) Regression Table**
+
+![image](https://user-images.githubusercontent.com/92777166/138551024-897c3586-3b8a-4c5b-a8e6-8b5ed46851cb.png)
+1) dupicate the state_list
+2) Merge customer list tabel - last 6 months purchases
+3) rename column
+4) Group rows by state
+5) Merge average Income by state
+6) rename columns
+![image](https://user-images.githubusercontent.com/92777166/138551233-840b9a4f-1cc5-41b3-bfe1-e9dcabed2edc.png)
+
 
